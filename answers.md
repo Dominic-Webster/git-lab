@@ -59,3 +59,5 @@ Answer 11: Updates rejected because the remote contains work that I don't have l
 Answer 12: Yes.
 
 Answer 13: .  ..  Labs  Personals  git-lab-2
+
+Edit: My terminal got messed up, and I didn't have anyone to ask for help, so I copied the code into here. I still have the code, but am having trouble adding it through the terminal.
